@@ -1,9 +1,9 @@
-# Title
+## Title:
 
-# Description
+## Description:
 
-# Initial Thought Process + Why didn't it work
+## Initial Thought Process + Why didn't it work:
 
-# Solution 
+## Solution :
 
-# Learning takeaway
+## Learning takeaway:
